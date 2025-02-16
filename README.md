@@ -1,6 +1,4 @@
-#### Clone the repository:
-
-git clone https://github.com/NishantHegde2305/NishantHegde2305-YOLOv8-Helmet-Mirror-LPR-Detection.git
+#### Clone the repository
 
 #### Navigate to the project directory:
 
