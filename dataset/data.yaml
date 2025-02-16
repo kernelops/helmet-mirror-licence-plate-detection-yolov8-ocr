@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['bike', 'helmet', 'mirror', 'no helmet', 'number plate']
+
+roboflow:
+  workspace: astra-nbcvl
+  project: helmet_bike_mirror
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/astra-nbcvl/helmet_bike_mirror/dataset/4
