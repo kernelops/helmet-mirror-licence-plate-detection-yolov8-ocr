@@ -8,12 +8,12 @@ git clone https://github.com/NishantHegde2305/NishantHegde2305-YOLOv8-Helmet-Mir
 cd NishantHegde2305-YOLOv8-Helmet-Mirror-LPR-Detection
 
  2️⃣ Create a Virtual Environment (Optional but Recommended)
-python -m venv venv
+ python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 
  3️⃣ Run the Application
-Start the Streamlit app:
-streamlit run app.py
+ Start the Streamlit app:
+ streamlit run app.py
 
  4️⃣ Upload and Analyze Images
 1. Open the streamlit app in your browser
