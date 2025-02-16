@@ -1,6 +1,4 @@
-
- 🚀 How to Run the Project
-This guide will help you set up and run the YOLOv8-Helmet-Mirror-LPR-Detection project using Streamlit.
+The follwing guide will help you set up and run the YOLOv8-Helmet-Mirror-LPR-Detection project using Streamlit.
 
  1️⃣ Clone the Repository
 Open a terminal and run:
