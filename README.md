@@ -2,20 +2,6 @@
 
 A comprehensive computer vision system for research and academic purposes that detects traffic violations using YOLOv8, including helmet detection, license plate recognition (LPR), and mirror detection for motorcycles and bikes.
 
-## 📋 Table of Contents
-
-- [Features](#-features)
-- [Project Overview](#-project-overview)
-- [Repository Structure](#-repository-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Details](#-model-details)
-- [Dataset](#-dataset)
-- [API Reference](#-api-reference)
-- [Research Applications](#-research-applications)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## ✨ Features
 
 - **🏍️ Helmet Detection**: Automatically detects riders with and without helmets
@@ -164,14 +150,6 @@ To retrain the model with your own data:
    yolo train data=dataset/data.yaml model=yolov8n.pt epochs=100 imgsz=640
    ```
 
-## 📊 Dataset
-
-### Dataset Information
-- **Source**: Roboflow Universe
-- **License**: CC BY 4.0
-- **Project**: helmet_bike_mirror
-- **URL**: https://universe.roboflow.com/astra-nbcvl/helmet_bike_mirror
-
 ### Dataset Structure
 ```
 dataset/
@@ -194,10 +172,6 @@ Labels are in YOLO format with 5 classes:
 - 2: mirror
 - 3: no helmet
 - 4: number plate
-
-## 🔧 API Reference
-
-### YOLODetector Class
 
 #### Constructor
 ```python
