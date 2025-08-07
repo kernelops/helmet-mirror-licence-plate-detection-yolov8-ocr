@@ -1,4 +1,4 @@
-# 🚦 YOLOv8 Traffic Violation Detection System
+# 🚦 AI-Driven System for Real-Time Detection of Mirror Absence, Helmet Non-Compliance, and License Plates Using YOLOv8 and OCR
 
 A comprehensive computer vision system for research and academic purposes that detects traffic violations using YOLOv8, including helmet detection, license plate recognition (LPR), and mirror detection for motorcycles and bikes.
 
