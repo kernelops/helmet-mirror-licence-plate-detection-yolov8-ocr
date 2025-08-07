@@ -134,10 +134,10 @@ detector.process_video_optimized('path/to/video.mp4')
 - **Training Dataset**: Custom dataset with 1000+ annotated images
 
 ### Performance Metrics
-- **mAP@0.5**: 0.85+
-- **Precision**: 0.82+
-- **Recall**: 0.88+
-- **F1-Score**: 0.85+
+- **mAP@0.5**: 0.843
+- **Precision**: 0.9147
+- **Recall**: 0.886
+- **mAP@0.5-0.95**: 0.503
 
 ### Model Training
 
