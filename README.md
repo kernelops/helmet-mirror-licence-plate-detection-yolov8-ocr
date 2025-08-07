@@ -24,6 +24,14 @@ This system uses a custom-trained YOLOv8 model to detect 5 different classes:
 
 The system combines object detection with OCR (Optical Character Recognition) to provide comprehensive traffic violation monitoring capabilities for research and academic studies.
 
+## 🎨 Sample Results
+
+### Detection Examples
+![Detection Results](output.png)
+
+### OCR Licence Place detection log on Streamlit
+![Licence plate detection logs](log.png)
+
 ## 📁 Repository Structure
 
 ```
@@ -215,13 +223,6 @@ This project is designed for research and academic purposes in the following are
 - **Computer Vision Projects**: Complete pipeline from data to deployment
 - **Research Publications**: Foundation for traffic safety studies
 
-## 🎨 Sample Results
-
-### Detection Examples
-![Detection Results](output.png)
-
-### Training Performance
-![Training Logs](log.png)
 
 ## 🤝 Contributing
 
