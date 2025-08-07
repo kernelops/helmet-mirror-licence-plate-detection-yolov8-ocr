@@ -249,44 +249,6 @@ This project is designed for research and academic purposes in the following are
 ### Training Performance
 ![Training Logs](log.png)
 
-### Sample Dataset Images
-
-Here are some examples from our training dataset showing various scenarios:
-
-#### Helmet Detection Examples
-![Helmet Detection 1](dataset/train/images/new1_jpg.rf.dc1a77e38d375e75c8b7650071a3d98a.jpg)
-*Rider with helmet - Proper safety compliance*
-
-![Helmet Detection 2](dataset/train/images/new2_jpg.rf.e1a0b9755d63e66066ed9546787782d8.jpg)
-*Multiple riders with helmets detected*
-
-#### License Plate Recognition Examples
-![License Plate 1](dataset/train/images/new5_jpg.rf.f1b6603128ba712c6e8d7ecd0b71d94f.jpg)
-*License plate detection and OCR processing*
-
-![License Plate 2](dataset/train/images/new6_jpg.rf.71677f9ca17e6f76d9afa74da5b42960.jpg)
-*Clear license plate visibility for accurate recognition*
-
-#### Mirror Detection Examples
-![Mirror Detection](dataset/train/images/new7_jpg.rf.d990c0689125058c9f9869c046be1edc.jpg)
-*Motorcycle mirror detection for safety compliance*
-
-#### Test Set Examples
-![Test Image 1](dataset/test/images/new3_jpg.rf.5947dcb92be84f161c95098b4aa4aa61.jpg)
-*Test scenario with multiple detection targets*
-
-![Test Image 2](dataset/test/images/new8_jpg.rf.a040640aec3e3f2c82610b567518f667.jpg)
-*Complex scene with various traffic elements*
-
-![Test Image 3](dataset/test/images/new25_jpg.rf.034f4e70fc39a7b1ef58d79e7794e547.jpg)
-*Real-world traffic monitoring scenario*
-
-![Test Image 4](dataset/test/images/new29_jpg.rf.66ad28c61634b827d90aa052384d3aba.jpg)
-*Challenging lighting conditions*
-
-![Test Image 5](dataset/test/images/new57_jpg.rf.1afc61c07d81c42af9e070bb99c275f5.jpg)
-*Multiple vehicle detection in traffic*
-
 ## 🤝 Contributing
 
 We welcome contributions from researchers and academics! Please follow these guidelines:
@@ -343,21 +305,11 @@ If you use this project in your research, please cite:
 **Disclaimer:**
 This system is designed for research and academic purposes only. Users are responsible for ensuring compliance with local privacy laws, surveillance regulations, and ethical guidelines when using this system. The authors are not responsible for any misuse or unauthorized deployment.
 
-## 🙏 Acknowledgments
-
-- [Ultralytics](https://github.com/ultralytics/ultralytics) for YOLOv8
-- [EasyOCR](https://github.com/JaidedAI/EasyOCR) for license plate recognition
-- [Streamlit](https://streamlit.io/) for the web interface
-- [Roboflow](https://roboflow.com/) for dataset management
-- Academic community for research collaboration
-
 ## 📞 Support
 
 For research questions, academic collaboration, or technical support:
 - Create an issue on GitHub
-- Contact: [your-academic-email@university.edu]
-- Research Documentation: [link-to-research-docs]
-
+- Contact: hegde.nishant2005@gmail.com
 ---
 
 **⚠️ Important Notice**: This system is designed exclusively for research and academic purposes. Please ensure compliance with institutional review board (IRB) requirements, privacy laws, and ethical guidelines when conducting research with this system. 
